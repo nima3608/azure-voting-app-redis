@@ -1,9 +1,8 @@
   
-Nima8
-  Fakhari
+Nima88989898  Fakhari
 ---
 page_type: sample
-languages:
+
   - python
 products:
   - azure
